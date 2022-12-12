@@ -42,7 +42,6 @@ provide(isEditable, editorOrchestrator.editable);
         <Panels />
         <Drawer />
       </div>
-      <QuickEditor />
     </div>
   </div>
 </template>
